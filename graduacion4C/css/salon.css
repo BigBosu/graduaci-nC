@@ -1,0 +1,60 @@
+.salon {
+    margin: 40px;
+}
+
+.contenedor-mesa {
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+.mesa {
+    font-size: 6em;
+}
+
+.silla {
+    font-size: 1.5em;
+    position: absolute;
+    cursor: pointer;
+}
+
+.silla-pos1 {
+    top: -25px;
+    left: 18px;
+}
+
+.silla-pos2 {
+    top: -25px;
+    left: 56px;
+}
+
+.silla-pos3 {
+    top: 15px;
+    left: 94px;
+}
+
+.silla-pos4 {
+    top: 56px;
+    left: 94px;
+}
+
+.silla-pos5 {
+    top: 95px;
+    left: 55px;
+}
+
+.silla-pos6 {
+    top: 95px;
+    right: 115px;
+}
+
+.silla-pos7 {
+    top: 56px;
+    right: 150px;
+}
+
+.silla-pos8 {
+    top: 15px;
+    right: 150px;
+}
